@@ -9,7 +9,7 @@ A basic login/register system that uses email and password for registration and 
 
 # in-code costumization set-up
 1. launch the project using your IDE (I use pycharm but you can use anything in general)
-2. in line 84 and 85 replace **https://YOUR_PROJECT_ID.supabase.co with your project id** and **YOUR_SUPABASE_ANONKEY with your supabase anon key**
+2. in line 84 and 85 of the index.html file, replace **https://YOUR_PROJECT_ID.supabase.co with your project id** and **YOUR_SUPABASE_ANONKEY with your supabase anon key**
 
 # customization
 Feel free to customize anything you want, just make sure to not break anything ig? But you can always go back using local history
