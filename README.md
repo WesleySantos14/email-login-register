@@ -1,5 +1,11 @@
 # login-system-emailauth
 A basic login/register system that uses email and password for registration and sends an confirmation email to the user, there are 2 html files, one is index (the logni page) and the second one is dashboard, nothing is on dashboard and its fully customizable, make sure to read README!!!
+<img width="813" height="802" alt="image" src="https://github.com/user-attachments/assets/c6f10a69-f776-45c7-829a-a9229a419acb" />
+<img width="764" height="197" alt="image" src="https://github.com/user-attachments/assets/6ce19098-4b80-4800-92e7-63c251860117" />
+<img width="977" height="185" alt="image" src="https://github.com/user-attachments/assets/1cc83df1-03ee-457f-b023-54561253f639" />
+
+
+
 
 # Set-up after download
 1.to acces anything, make sure to extract all files, you can do it in the file explorer
