@@ -5,7 +5,7 @@ A basic login/register system that uses email and password for registration and 
 1.to acces anything, make sure to extract all files, you can do it in the file explorer
 2. make sure to create an account at https://supabase.com/
 3. Create an organization and a project, then take both of your project id from **Settings -> general** and anon public key from **Setting -> API keys -> legacy anon, service_role API keys**
-**IMPORTANT: WHEN CRAETING AN ORGANIZATION MAKE SURE TO USE YOUR EGION, FOR EXAMPLE EU, OTHERWISE PROBLEMS MAY OCCUR⚠️**
+**IMPORTANT: WHEN CRAETING AN ORGANIZATION MAKE SURE TO USE YOUR REGION, FOR EXAMPLE EU, OTHERWISE PROBLEMS MAY OCCUR⚠️**
 
 # in-code costumization set-up
 1. launch the project using your IDE (I use pycharm but you can use anything in general)
